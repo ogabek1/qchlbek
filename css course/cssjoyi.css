@@ -1,0 +1,184 @@
+body, h1, h2, h3, p, ul {
+    margin: 0;    
+}
+
+#header {
+    background-color: #35424a;
+    border-bottom: 5px solid coral;
+}
+.container {
+    margin: auto;
+    display: block;
+    width: 70%;   
+}
+
+.container h1 {
+    display: inline-block;
+    padding: 15px 0;
+    color: white;
+    font-family: sans-serif;
+}
+.logo {
+    color: coral;
+}
+.navbar {
+    float: right;
+}
+.navbar li {
+    display: inline;    
+}
+.navbar li a {
+    text-decoration: none;
+    padding: 25px 15px;
+    color: white;
+    font-family: sans-serif;
+    display: inline-block;
+}
+.navbar li a:hover {
+    color: coral;
+}
+#banner {
+    height: 60vh;
+    background-image: url(shoe3.jpg);
+    color: darkorange;
+    text-align: center;
+    font-family: cursive;
+    background-size: cover;
+    background-position: center -222px;
+    
+}
+#banner .container {
+    width: 86%;
+    margin: auto;
+    
+}
+#banner h1 {
+    font-size: 56px;
+    margin-bottom: 25px;/*sho'rdi br ko'rvar so'ng o'zing */
+    padding-top: 100px;
+    color: skyblue; 
+}
+#banner p {
+    font-size: 25px;
+}
+#news {
+    background-color: #35424a;
+    height: 4.5vh;
+    
+}
+.continer {
+    width: 70%;
+    margin: auto;
+    color: white;
+}
+.left {
+    color: #fff;
+    font-family: sans-serif;
+    float: left;
+    padding-top: 10px;
+}
+.right {
+    float: right;
+}
+.right button {
+    background-color: orangered;
+    font-family: cursive;
+    padding: 10px;   
+}
+.right button:hover {
+    background-color: white;
+    color: #555;
+    cursor: pointer;
+}
+#rasmlar {
+    padding: 30px 0;
+}
+.jiy {
+    width: 70%;
+    margin: auto;
+}
+.box {
+    float: left;
+    width: 33.33%;
+}
+.box img {
+    max-width: 100%;
+    width: 500px;
+}
+.clr {
+    clear: both;
+}
+#footer {
+    margin-top: 40px;
+    padding: 50px 0;
+    color: #fff;
+    background-color: coral;
+    text-align: center;
+}
+#footer1 {
+    padding: 50px 0;
+    color: #fff;
+    background-color: coral;
+    text-align: center;
+}
+.aboutp {
+    color: coral !important;
+}
+.home {
+    color: coral !important;
+}
+.orta {
+    background-image: url(asatshoes2.png)  
+}
+.middle {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    background-size: cover;
+    height: 60vh;
+    box-sizing: border-box;
+}
+.forphoto {
+    
+}
+}
+.info1 {
+    text-align: center;
+}
+.disp {
+    display: inline-block;
+    padding: 10px 20px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.talab {
+    background-color: #555;
+    color: white;
+}
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
